@@ -1,0 +1,33 @@
+﻿@model List<Book>
+
+<h2>Library Books</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Image</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Author</td>
+                    <td><img src="~/img/@book.ImageUrl" alt="Book Image" width="50" height="75" /></td>
+                    <td>@(book.IsAvailable ? "Available" : $"Borrowed - {book.Borrower}, Return Date: {book.ReturnDate?.ToShortDateString()}")</td>
+                    <td>
+                    @if (book.IsAvailable)
+                    {
+                                <a asp-action="Borrow" asp-route-id="@book.Id">Borrow</a>
+                    }
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="AddBook" class="btn btn-primary">Add Book</a>
