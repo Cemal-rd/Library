@@ -5,13 +5,12 @@ Bu proje, bir kütüphane yönetim uygulamasıdır. Kullanıcılar, kütüphaned
 - MSSQL
 -Entity Framework Code First
 <h2>Kurulum</h2>
-Bu depoyu yerel makinenize klonlayın: git clone https://github.com/Cemal-rd/Library.git
-SQL Server kullanarak:
-appsettings.json dosyasındaki "DefaultConnection" bağlantı dizesini güncelleyin.
+<h1>Bu depoyu yerel makinenize klonlayın: git clone https://github.com/Cemal-rd/Library.git</h1>
+<h1>appsettings.json dosyasındaki "DefaultConnection" bağlantı dizesini güncelleyin.</h1>
 <h1>Veritabanını oluşturun </h1>
-dotnet ef database update
+-dotnet ef database update
 <h1>Projeyi Çalıştırın:</h1>
-dotnet run
+-dotnet run
 <h2>Kullanım</h2>
 -Ana sayfada kütüphanede bulunan tüm kitapları görüntüleyebilirsiniz.
 -"Borrow" düğmesine tıklayarak bir kitabı ödünç alabilirsiniz.
