@@ -2,3 +2,6 @@
 7.02.2024 03:54:05 - Executing action: AddBook
 7.02.2024 03:54:17 - Executing action: AddBook [POST]
 7.02.2024 03:54:18 - Executing action: Index
+7.02.2024 18:04:58 - Executing action: Index
+7.02.2024 18:09:53 - Executing action: Index
+7.02.2024 18:16:33 - Executing action: Index
