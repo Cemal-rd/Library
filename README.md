@@ -12,9 +12,9 @@ Bu proje, bir kütüphane yönetim uygulamasıdır. Kullanıcılar, kütüphaned
 <h1>Projeyi Çalıştırın:</h1>
 -dotnet run
 <h2>Kullanım</h2>
--Ana sayfada kütüphanede bulunan tüm kitapları görüntüleyebilirsiniz.
--"Borrow" düğmesine tıklayarak bir kitabı ödünç alabilirsiniz.
--"Add New Book" düğmesine tıklayarak kütüphaneye yeni bir kitap ekleyebilirsiniz.
+<h3>-Ana sayfada kütüphanede bulunan tüm kitapları görüntüleyebilirsiniz.</h3>
+<h3>-"Borrow" düğmesine tıklayarak bir kitabı ödünç alabilirsiniz.</h3>
+<h3>-"Add New Book" düğmesine tıklayarak kütüphaneye yeni bir kitap ekleyebilirsiniz.</h3>
 
 
 
