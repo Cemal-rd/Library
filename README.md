@@ -1,5 +1,5 @@
 # Library
-Bu proje, bir kütüphane yönetim uygulamasıdır. Kullanıcılar, kütüphanede bulunan kitapları listeleme, ödünç almave yeni kitap ekleme gibi işlemleri yapabilirler. Ayrıca, kitapların durumlarını takip edebilirler.
+Bu proje, bir kütüphane yönetim uygulamasıdır. Kullanıcılar, kütüphanede bulunan kitapları listeleme, ödünç almave yeni kitap ekleme gibi işlemleri yapabilirler. Ayrıca, helpers içine yazdığım logger sınıfı sayesinde yapılan tüm işlemler .txt dosyasına loglanıyor.
 <h1>Projede Kullanılan Teknolojiler</h1>
 - .Net Core MVC
 - MSSQL
