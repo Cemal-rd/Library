@@ -5,3 +5,40 @@
 7.02.2024 18:04:58 - Executing action: Index
 7.02.2024 18:09:53 - Executing action: Index
 7.02.2024 18:16:33 - Executing action: Index
+8.02.2024 01:03:11 - Executing action: Index
+8.02.2024 01:03:15 - Executing action: AddBook
+8.02.2024 01:03:17 - Executing action: Index
+8.02.2024 01:03:18 - Executing action: AddBook
+8.02.2024 16:38:12 - Executing action: Index
+8.02.2024 16:38:34 - Executing action: AddBook
+8.02.2024 16:39:08 - Executing action: Index
+8.02.2024 16:39:26 - Executing action: Borrow
+8.02.2024 16:39:32 - Executing action: Borrow [POST]
+8.02.2024 16:39:32 - Executing action: Index
+8.02.2024 16:41:30 - Executing action: Index
+8.02.2024 16:47:11 - Executing action: Index
+8.02.2024 16:47:16 - Executing action: Borrow
+8.02.2024 16:47:21 - Executing action: Borrow [POST]
+8.02.2024 16:47:21 - Executing action: Index
+8.02.2024 16:48:56 - Executing action: Index
+8.02.2024 16:48:59 - Executing action: Borrow
+8.02.2024 16:49:37 - Executing action: Index
+8.02.2024 16:49:41 - Executing action: Borrow
+8.02.2024 16:49:47 - Executing action: Borrow [POST]
+8.02.2024 16:49:47 - Executing action: Index
+8.02.2024 16:50:34 - Executing action: Index
+8.02.2024 16:50:38 - Executing action: AddBook
+8.02.2024 16:51:04 - Executing action: AddBook [POST]
+8.02.2024 16:51:04 - Executing action: Index
+8.02.2024 16:51:07 - Executing action: Borrow
+8.02.2024 16:51:11 - Executing action: Borrow [POST]
+8.02.2024 16:51:11 - Executing action: Index
+8.02.2024 16:51:37 - Executing action: AddBook
+8.02.2024 16:51:51 - Executing action: AddBook [POST]
+8.02.2024 16:51:51 - Executing action: Index
+8.02.2024 16:52:03 - Executing action: AddBook
+8.02.2024 16:52:22 - Executing action: AddBook [POST]
+8.02.2024 16:52:22 - Executing action: Index
+8.02.2024 16:52:25 - Executing action: AddBook
+8.02.2024 16:52:43 - Executing action: AddBook [POST]
+8.02.2024 16:52:43 - Executing action: Index

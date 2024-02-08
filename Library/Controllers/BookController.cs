@@ -9,6 +9,7 @@ using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Library.Helpers;
+using System.Xml.Linq;
 
 namespace Library.Controllers
 {
@@ -85,7 +86,7 @@ namespace Library.Controllers
                     {
                         // Ödünç alma işlemi başarılı
                         book.IsAvailable = false;
-                        book.Borrower = "Borrower Name";
+                        book.Borrower = model.Borrower;
                         book.BorrowDate = DateTime.Now;
                         book.ReturnDate = model.ReturnDate;
 
