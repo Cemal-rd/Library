@@ -16,11 +16,17 @@ Bu proje, bir kütüphane yönetim uygulamasıdır. Kullanıcılar, kütüphaned
 <h3>-"Borrow" düğmesine tıklayarak bir kitabı ödünç alabilirsiniz.</h3>
 <h3>-"Add New Book" düğmesine tıklayarak kütüphaneye yeni bir kitap ekleyebilirsiniz.</h3>
 <h1>Uygulama Önyüzü</h1>
+
 ![Library2](https://github.com/Cemal-rd/Library/assets/107768783/ecd42373-1405-4754-9c6d-bbce8b2f2ad7)
+
 Uygulama Anasayfası bu şekilde.Sadece kütüphanede olan kitapların yanında ödünç alma butonu açık.Dışarıda olan kitapların ne zaman döneceği ve kimin elinde olduğu gözüküyor.
+
 ![Library1](https://github.com/Cemal-rd/Library/assets/107768783/9ac4ecc0-11e5-4bf7-8ad8-7bdeacbba925)
+
 Kitap Ekleme kısmıda bu şekilde kitabın ismi, yazar ismi ve kitap resmi ile kitap eklenebilmekte.
+
 ![Library3](https://github.com/Cemal-rd/Library/assets/107768783/50af1dd6-cb87-4d63-b105-b4d5ef7bd142)
+
 Ödünç alma kısmında ise isim ve geri getirme tarihi ile kitap ödünç alabilmektesiniz.
 
 
